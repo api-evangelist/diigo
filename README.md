@@ -65,4 +65,21 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 Diigo is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://diigo.com/
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://diigo.com/)
+- [Documentation](https://help.diigo.com/)
+- [Getting started](https://help.diigo.com/educator-accounts/getting-started)
+- [Sign up](https://www.diigo.com/sign-up)
+- [Blog](http://blog.diigo.com/)
+- [Terms of service](https://www.diigo.com/terms)
+- [Privacy policy](https://www.diigo.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/diigo/](https://apis.io/providers/diigo/).
